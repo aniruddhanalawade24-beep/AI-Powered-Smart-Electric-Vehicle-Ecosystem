@@ -28,3 +28,12 @@ This project builds a **machine learning pipeline** that connects 3 critical par
 ---
 
 ## 📂 Project Structure
+ev_ai_ecosystem/
+│── data/
+│── models/
+│── notebooks/
+│── src/
+│── main.py
+│── requirements.txt
+│── README.md   
+
